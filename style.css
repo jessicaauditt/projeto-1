@@ -12,8 +12,8 @@ body{
 
 .principal{
     width: 90%; /*largura*/
-    height: 400px; /*altura*/
-    height: auto;
+    max-width: 400px; /*largura máxima*/
+    height: auto;/*altura*/
     background-color: #EEEEEE;
 
     margin-left: auto;
